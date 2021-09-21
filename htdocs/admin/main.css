@@ -1,0 +1,35 @@
+.stats {
+
+}
+.stat-block {
+    width: 130px;
+    display: block;
+    text-align: center;
+}
+.number {
+    font-size: 70px;
+    font-family: Arial, serif;
+    background: rgba(138,255,112,0.6);
+    border-radius: 100px;
+    min-width: 100px;
+    min-height: 100px;
+    display: inline-block;
+    border-style: dashed;
+    border-color: #073407;
+    line-height: 100px;
+    text-align: center;
+    position: relative;
+    left: 15px;
+}
+.intro {
+    display: inline-block;
+    border-style: dashed;
+    border-radius: 20px;
+    min-width: 130px;
+    min-height: 30px;
+    font-size: 25px;
+    padding: 10px;
+    position: relative;
+    top: -20px;
+    background: rgba(253,255,167,0.9);
+}

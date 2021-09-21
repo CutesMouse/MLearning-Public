@@ -1,0 +1,129 @@
+.text_box h1 {
+    font-size: 24px;
+}
+
+.text_box h2 {
+    font-size: 28px;
+}
+
+.text_box h3 {
+    font-size: 32px;
+}
+
+.text_box h4 {
+    font-size: 36px;
+}
+
+.text_box h5 {
+    font-size: 40px;
+}
+
+.text_box h6 {
+    font-size: 44px;
+}
+
+.text_box a {
+    border: none;
+    color: #59b;
+    padding: 0;
+}
+
+.text_box a code {
+    color: #59b;
+}
+
+.text_box blockquote {
+    background: none;
+    border-left: 3px solid #777;
+    color: #777;
+    margin: 20px 0;
+    padding: 0 0 0 10px;
+}
+
+.text_box div.footnotes {
+    font-size: 14px;
+}
+
+.text_box h1, .text_box h2, .text_box h3, .text_box h4, .text_box h5, .text_box h6 {
+    line-height: normal;
+    margin: 20px 0;
+}
+
+.text_box hr {
+    border: 0 none;
+    color: #ccc;
+    height: 4px;
+    padding: 0;
+    margin: 15px 0;
+}
+
+.text_box ol {
+    padding-left: 64px;
+}
+
+.text_box code {
+    background: #ffffff;
+    border-radius: 15px;
+    border: 3px solid;
+}
+
+.text_box table {
+    border-width: 1px 0 0 1px;
+    border-color: #bbb;
+    border-style: solid;
+}
+
+.text_box table td, .text_box table th {
+    border-width: 0 1px 1px 0;
+    border-color: #bbb;
+    border-style: solid;
+    padding: 10px;
+}
+
+.hljs {
+    display: block;
+    overflow-x: auto;
+    padding: .5em;
+    background: #f0f0f0
+}
+
+.hljs, .hljs-subst {
+    color: #444
+}
+
+.hljs-comment {
+    color: #888
+}
+
+.hljs-keyword { /** Like if or etc..**/
+    color: rgb(204, 120, 50);
+}
+.hljs-meta-keyword, .hljs-meta {
+    color: #BBB529;
+}
+.hljs-meta-string, .hljs-string {
+    color: #6A8759;
+}
+.hljs-built_in {
+    color: #9876AA;
+}
+.hljs-number {
+    color: #6897BB;
+}
+.hljs-title, .hljs-selector-tag, .hljs-selector-class ,.hljs-deletion, .hljs-quote, .hljs-selector-id, .hljs-template-tag, .hljs-type{
+    color: #FFC66D;
+}
+.hljs-params {
+    color: black;
+}
+.hljs-title, .hljs-attribute, .hljs-doctag , .hljs-meta-keyword, .hljs-name, .hljs-selector-tag {
+    font-weight: 700
+}
+.hljs-section {
+    color: #800;
+    font-weight: 700;
+}
+
+.hljs-strong {
+    font-weight: 700
+}

@@ -1,0 +1,119 @@
+body {
+    text-align: center;
+    background: url("../index-bg.png") fixed round;
+}
+a {
+    text-decoration: none;
+    color: #01107d;
+}
+.empty {
+    font-size: 20px;
+    color: blue;
+    padding: 50px;
+    background-image: radial-gradient(ellipse closest-side, #b8d9ff 0%, #ffffff 100%);
+}
+.warming {
+    display: inline-block;
+    margin-top: 20px;
+    border: #6c0000 solid;
+    border-radius: 10px;
+    padding: 10px;
+    font-size: 20px;
+    background: #e3a2a2;
+    text-align: center;
+    color: #fc171d;
+}
+.warming-content {
+    -webkit-text-stroke-width: 0.8px;
+    -webkit-text-stroke-color: rgba(0,0,0,0.3);
+    font-weight: 300;
+}
+.warming-title {
+    font-size: 30px;
+    margin-bottom: 15px;
+    color: #bd3232;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #400000;
+    text-align: left;
+    font-weight: bolder;
+}
+.warming-content-emphasis {
+    display: inline-block;
+    background: rgba(255,255,0,0.75);
+    padding: 3px;
+    border-radius: 5px;
+    font-weight: bold;
+}
+.topic {
+    display: inline-block;
+    padding: 30px;
+}
+.table-tr:nth-child(2n) {
+    background: #d0e9ff;
+}
+.table-tr:nth-child(2n+1) {
+    background: #ffffff;
+}
+.table-tr {
+    font-size: 20px;
+}
+table {
+
+}
+thead {
+    font-size: 25px;
+    text-align: left;
+    background: #66c2ff;
+    color: #002bad;
+    font-weight: normal;
+}
+.table-title {
+    min-width: 600px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.table-time {
+    min-width: 180px;
+}
+.table-type {
+    min-width: 100px;
+}
+.table-author {
+    min-width: 100px;
+}
+.table-title, .table-time, .table-author, .table-type, .table-element {
+    padding-left: 6px;
+    padding-right: 6px;
+}
+.table-element {
+    padding-top: 6px;
+    padding-bottom: 6px;
+}
+.post {
+    position: relative;
+    margin: 30px;
+    text-align: left;
+}
+.post button {
+    display: inline-block;
+    font-size: 25px;
+    min-width: 130px;
+    min-height: 60px;
+    border-radius: 0 15px 0 15px;
+    outline: none;
+    box-shadow: 0 0 16px 0 rgba(255, 233, 60, 0.2);
+    background: #c3f2ff;
+    transition: all 0.5s;
+}
+.post button:hover {
+    border-radius: 0;
+    box-shadow: 0 0 32px 0 rgb(60, 255, 193);
+    background: #9ae7ff;
+    font-size: 30px;
+    color: #0016a8;
+    transition: all 0.5s;
+
+}
+.post-pre {
+    text-align: center;
+}

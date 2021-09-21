@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c2f1af12-3eac-4a50-b234-1fd177959159" name="Default Changelist" comment="20210920 歷程檔案製作">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpDebugGeneral" listening_started="true" />
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectId" id="1k90xX88XDuCAlmFjT5qi3oY1jL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DataGrid.QuickDoc.View" value="transposed" />
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="database.data.extractors.current.export.id" value="SQL Inserts" />
+    <property name="last.edited.regexp" value="&lt;img src=&quot;sdasdas&quot;&gt;" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Language Defaults" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\PhpProjects\mouseLearning\htdocs\practice" />
+      <recent name="E:\PhpProjects\mouseLearning\htdocs\account" />
+      <recent name="E:\PhpProjects\mouseLearning\htdocs" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\PhpProjects\mouseLearning\htdocs" />
+      <recent name="E:\PhpProjects\mouseLearning" />
+      <recent name="E:\PhpProjects\mouseLearning\htdocs\topic" />
+      <recent name="E:\PhpProjects\mouseLearning\htdocs\editor" />
+      <recent name="E:\PhpProjects\mouseLearning\htdocs\markdown" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c2f1af12-3eac-4a50-b234-1fd177959159" name="Default Changelist" comment="" />
+      <created>1605097746659</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605097746659</updated>
+      <workItem from="1605097747688" duration="4649000" />
+      <workItem from="1605176015190" duration="12925000" />
+      <workItem from="1605190063526" duration="3171000" />
+      <workItem from="1605262035841" duration="643000" />
+      <workItem from="1605262687657" duration="13644000" />
+      <workItem from="1605310187260" duration="20291000" />
+      <workItem from="1605343389182" duration="6093000" />
+      <workItem from="1605411994060" duration="10928000" />
+      <workItem from="1605430039197" duration="56000" />
+      <workItem from="1605430104583" duration="6321000" />
+      <workItem from="1605531743415" duration="3392000" />
+      <workItem from="1605614474888" duration="8068000" />
+      <workItem from="1605702397769" duration="618000" />
+      <workItem from="1605780969391" duration="1038000" />
+      <workItem from="1605866988384" duration="2321000" />
+      <workItem from="1605918001272" duration="3421000" />
+      <workItem from="1605964334140" duration="6877000" />
+      <workItem from="1606029745896" duration="408000" />
+      <workItem from="1606031155581" duration="14959000" />
+      <workItem from="1606134428370" duration="7692000" />
+      <workItem from="1606212735034" duration="9669000" />
+      <workItem from="1606308433493" duration="418000" />
+      <workItem from="1606386435840" duration="14275000" />
+      <workItem from="1606472022794" duration="15186000" />
+      <workItem from="1606524774315" duration="3000" />
+      <workItem from="1606536549968" duration="4410000" />
+      <workItem from="1606632521463" duration="884000" />
+      <workItem from="1606728637743" duration="940000" />
+      <workItem from="1606811313614" duration="10734000" />
+      <workItem from="1606897045165" duration="532000" />
+      <workItem from="1606900021936" duration="606000" />
+      <workItem from="1606904427498" duration="72000" />
+      <workItem from="1606905992274" duration="4897000" />
+      <workItem from="1606912036534" duration="89000" />
+      <workItem from="1607250024877" duration="630000" />
+      <workItem from="1607251106891" duration="8000" />
+      <workItem from="1607595009038" duration="3032000" />
+      <workItem from="1607609624862" duration="3316000" />
+      <workItem from="1607951476754" duration="1416000" />
+      <workItem from="1608292312059" duration="11000" />
+      <workItem from="1609482679786" duration="1333000" />
+      <workItem from="1610542593271" duration="773000" />
+      <workItem from="1610622547471" duration="3379000" />
+      <workItem from="1610703650279" duration="47000" />
+      <workItem from="1626490908350" duration="766000" />
+      <workItem from="1629883678529" duration="605000" />
+      <workItem from="1630315756338" duration="11000" />
+      <workItem from="1630389812249" duration="851000" />
+      <workItem from="1632099178828" duration="7144000" />
+      <workItem from="1632189235647" duration="29000" />
+    </task>
+    <task id="LOCAL-00001" summary="20201114">
+      <created>1605349808483</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605349808483</updated>
+    </task>
+    <task id="LOCAL-00002" summary="20201114">
+      <created>1605349886823</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1605349886823</updated>
+    </task>
+    <task id="LOCAL-00003" summary="20201117">
+      <created>1605621209449</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1605621209449</updated>
+    </task>
+    <task id="LOCAL-00004" summary="20201121">
+      <created>1605969786962</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1605969786962</updated>
+    </task>
+    <task id="LOCAL-00005" summary="20201122">
+      <created>1606041047232</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1606041047233</updated>
+    </task>
+    <task id="LOCAL-00006" summary="20201123 更新學生專區">
+      <created>1606142156336</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1606142156336</updated>
+    </task>
+    <task id="LOCAL-00007" summary="20201126 更新答題系統 // ToDo: 開放出題">
+      <created>1606401387282</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1606401387282</updated>
+    </task>
+    <task id="LOCAL-00008" summary="20201126 更新答題系統 // ToDo: 開放出題">
+      <created>1606401459623</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1606401459623</updated>
+    </task>
+    <task id="LOCAL-00009" summary="20201210 更新答題介面 // ToDo: 出題介面重製">
+      <created>1607610342775</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1607610342775</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="20201114" />
+    <MESSAGE value="20201117" />
+    <MESSAGE value="20201121" />
+    <MESSAGE value="20201122" />
+    <MESSAGE value="20201123 更新學生專區" />
+    <MESSAGE value="20201126 更新答題系統 // ToDo: 開放出題" />
+    <MESSAGE value="20201210 更新答題介面 // ToDo: 出題介面重製" />
+    <option name="LAST_COMMIT_MESSAGE" value="20201210 更新答題介面 // ToDo: 出題介面重製" />
+  </component>
+</project>

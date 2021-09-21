@@ -1,0 +1,56 @@
+body {
+    background: url("../index-bg.png") fixed round;
+}
+.form {
+    margin: 0 auto;
+    padding: 100px;
+    height: 150px;
+    line-height: 75px;
+    text-align: center;
+    background: rgba(201, 207, 255, 0.8);
+    display: block;
+}
+.notOK {
+    line-height: 75px;
+    transition: all 0.3s;
+}
+.OK {
+    line-height: 50px;
+    transition: all 0.3s;
+}
+.submit {
+    display: inline-block;
+    font-size: 20px;
+    min-width: 130px;
+    min-height: 40px;
+    border-radius: 0 15px 0 15px;
+    outline: none;
+    box-shadow: 0 0 16px 0 rgba(255, 233, 60, 0.2);
+    background: #c3f2ff;
+    transition: all 0.5s;
+    /*margin-top: 10px;*/
+    /*border: none;*/
+    /*background: rgb(255, 198, 150);*/
+    /*color: red;*/
+    /*font-size: 20px;*/
+    /*padding: 5px 20px;*/
+}
+.submit:hover {
+    border-radius: 0;
+    box-shadow: 0 0 32px 0 rgb(60, 255, 193);
+    background: #9ae7ff;
+    font-size: 30px;
+    color: #0016a8;
+    transition: all 0.5s;
+}
+.notOK .submit{
+    visibility: hidden;
+}
+.ip ,.lb{
+    font-size: 20px;
+    margin: 15px;
+    color: black;
+}
+.lb {
+
+}

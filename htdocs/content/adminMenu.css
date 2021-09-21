@@ -1,0 +1,30 @@
+.main_box {
+    margin: 20px auto;
+    display: block;
+    align-content: center;
+    background: #fff8e0;
+    width: 700px;
+    height: auto;
+    padding: 60px 60px;
+    z-index: 20;
+}
+.left_box {
+    float: left;
+    background: rgba(255,209,213,0.71);
+    padding: 20px;
+    height: 70%;
+    z-index: -1;
+}
+.title {
+    background: rgba(255,98,111,0.71);
+    color: #b60000;
+    font-size: 20px;
+    margin: 20px;
+    min-width: 180px;
+    padding: 5px;
+}
+.title:hover {
+    background: rgba(150,50,50,0.71);
+    color: #4b0000;
+    cursor: pointer;
+}

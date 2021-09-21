@@ -1,0 +1,31 @@
+body {
+    background: url("../index-bg.png") fixed round;
+}
+.block {
+    width: 70%;
+    margin: 0 auto;
+    padding: 100px;
+    text-align: left;
+    display: block;
+    margin: 20px auto;
+    display: block;
+    background: rgba(201, 207, 255, 0.8);
+}
+.sep {
+    border-top: 3px dashed gray;
+}
+.title {
+    font-size: 40px;
+}
+.text_box {
+    font-size: 20px;
+    line-break: anywhere;
+    background: rgba(0, 0, 0, 0.1);
+    color: #000631;
+}
+.info {
+    margin-top: 35px;
+}
+.topic {
+    margin: 100px 0;
+}

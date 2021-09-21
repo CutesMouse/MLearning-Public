@@ -1,0 +1,14 @@
+body {
+    margin-top: 70px;
+    display: block;
+    text-align: center;
+    top: 50%;
+}
+input, button, select {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 15px;
+}
+button {
+    padding: 5px 10px;
+}

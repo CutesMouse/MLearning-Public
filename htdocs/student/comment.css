@@ -1,0 +1,44 @@
+#comment-post {
+    font-size: 30px;
+    margin-top: 20px;
+}
+#comment-textarea {
+    margin-top: 10px;
+    resize: none;
+    width: 100%;
+    font-size: 20px;
+    font-family: 微軟正黑體, serif;
+    height: 100px;
+}
+#comment-submit {
+    margin-top: 10px;
+    margin-bottom: 20px;
+    padding: 10px 20px;
+    font-size: 20px;
+    background: #3062c7;
+    color: #ffffff;
+    -webkit-text-stroke-width: 0.3px;
+    -webkit-text-stroke-color: black;
+}
+#comment-submit:hover {
+    background: #006b7b;
+}
+#comment-textarea-label {
+    background: rgba(255, 255, 0,0.5);
+    padding: 3px;
+    border-style: dashed;
+    border-color: orangered;
+    margin: 10px 0;
+}
+.comment-view {
+    padding: 10px 20px;
+    display: block;
+    background: rgba(255, 255, 255, 0.8);
+    border-radius: 15px;
+    margin: 20px 0;
+    font-size: 25px;
+}
+.comment-author {
+    margin-top: 5px;
+    font-size: 15px;
+}

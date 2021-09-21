@@ -1,0 +1,154 @@
+body {
+    background: url("index-bg.png") fixed round;
+}
+.content {
+    margin: 0 auto;
+    text-align: center;
+}
+.settings {
+    position: fixed;
+    left: 0;
+    display: inline-block;
+    background: rgba(255,247,231,0.5);
+    font-size: 22px;
+    width: 230px;
+    height: 100px;
+    line-height: 33px;
+    padding: 20px 20px;
+}
+.star {
+    color: white;
+    -webkit-text-stroke: 1px rgba(0,0,0,0.5);
+}
+.star-selected {
+    color: yellow;
+}
+.star-hover {
+    color: lightblue;
+}
+.refresh {
+    font-size: 20px;
+    border: none;
+    min-width: 150px;
+    min-height: 30px;
+    background: #daff6a;
+}
+.refresh:hover {
+    background: #98c249;
+}
+#quotes {
+    width: 15px;
+    height: 15px;
+}
+.question_input, .plain,.correct,.wrong, .eng_sen {
+    font-size: 20px;
+    line-height: 30px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.alphabet {
+    color: blue;
+}
+.main_questions {
+    margin: 20px auto;
+    display: block;
+    align-content: center;
+    background: rgba(201, 207, 255, 0.8);
+    color: #240072;
+    width: 700px;
+    height: auto;
+    padding: 60px 60px;
+}
+.submit {
+    margin-top: 10px;
+    border: none;
+    background: rgb(254, 252, 255);
+    color: #000000;
+    font-size: 28px;
+    padding: 5px 20px;
+}
+.submit:hover {
+    background: rgb(243, 225, 255);
+}
+.correct {
+    line-height: 50px;
+    margin-top: 13px;
+    margin-bottom: 13px;
+    color: green;
+    background: rgba(170, 255, 171,0.5);
+    padding: 5px;
+    border-radius: 10px;
+}
+.wrong {
+    line-height: 50px;
+    background: rgba(255, 255, 255, 0.2);
+    color: red;
+    padding: 5px;
+    border-radius: 10px;
+}
+.wrong-tooltip, .plain-tooltip, .correct-tooltip {
+    visibility: hidden;
+    width: auto;
+    background-color: rgba(0,0,0,0.8);
+    color: #fff;
+    padding: 5px 10px;
+    border-radius: 6px;
+    position: absolute;
+    z-index: 1;
+    transform: translateX(10px) translateY(-5px);
+    text-align: left;
+}
+.plain:hover .plain-tooltip {
+    visibility: visible;
+}
+.wrong:hover .wrong-tooltip {
+    visibility: visible;
+}
+.correct:hover .correct-tooltip {
+    visibility: visible;
+}
+.result {
+    background: rgba(0, 0, 0, 0.2);
+    display: inline-block;
+    width: 300px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: 50px;
+}
+.result-title {
+    font-size: 35px;
+}
+.choose_block {
+    background: white;
+    border: black;
+    font-size: 25px;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-top: 10px;
+}
+.element {
+    margin: 10px;
+    display: inline-block;
+}
+.title {
+    display: inline-block;
+    padding: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 20px;
+    background: yellow;
+    color: #716010;
+}
+.left {
+    text-align: left;
+}
+.answer {
+    text-align: left;
+}
+.element_line {
+    padding: 10px;
+}
+.element_line:nth-child(2n) {
+    background: rgba(255, 255, 255,0.1);
+}

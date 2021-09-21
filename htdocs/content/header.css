@@ -1,0 +1,66 @@
+.top-list {
+    top: 0;
+    left: 0;
+    position: fixed;
+    background: #b2dbff;
+    width: 100%;
+    height: 60px;
+    text-align: center;
+    z-index: 2147483647;
+}
+.menu-header {
+    border: none;
+    font-size: 25px;
+    background: #d5e9ff;
+    min-width: 160px;
+    min-height: 50px;
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+}
+.menu-container {
+    display: inline-block;
+}
+.menu-header:hover, .menu-header:focus {
+    background: #aaf5ff;
+}
+.menu-content {
+    text-align: left;
+    position: absolute;
+    display: none;
+    background: #dbffff;
+}
+.menu-item, .sub-menu-element {
+    display: block;
+    background: white;
+    text-decoration: none;
+    font-size: 20px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-left: 2px;
+    padding-right: 10px;
+    min-width: 160px;
+    color: black;
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+    z-index: 1;
+}
+.menu-item:hover, .sub-menu-element:hover {
+    background: #b9f8ff;
+}
+.menu-container:hover .menu-content {
+    display: block;
+}
+.menu-content a, .menu-item {
+    margin-left: 30px;
+    padding: 5px;
+    border-style: dashed;
+    border-width: 2px;
+    border-color: #e5cbff;
+    color: #000d61;
+}
+.sub-menu-content {
+    display: none;
+    position: absolute;
+    transform: translateX(175px) translateY(-36px);
+}
+.sub-menu-container:hover .sub-menu-content {
+    display: block;
+}
